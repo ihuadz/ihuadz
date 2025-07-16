@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 一个会点前端的后端开发者
 
-[![iHuaDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuadz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![iHuaDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuadz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
