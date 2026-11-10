@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-前后端都会点的架构师
+I’m fighting AI for my job... 😒
 
 <!-- [![iHuaDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuadz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
